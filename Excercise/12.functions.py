@@ -34,3 +34,12 @@ def my_three_function(place, name) :
         print(f'What is it like to be in {place} .?')
     
 my_three_function(place='London', name='Naveen')
+
+
+
+# functions with return types
+def add(a,b) :
+    return a + b
+
+total = add(2,4)
+print(total)
