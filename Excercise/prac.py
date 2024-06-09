@@ -1,9 +1,9 @@
 student_scores = {
-  "Harry": 81,
-  "Ron": 78,
-  "Hermione": 99, 
-  "Draco": 74,
-  "Neville": 62,
+    "Harry": 81,
+    "Ron": 78,
+    "Hermione": 99, 
+    "Draco": 74,
+    "Neville": 62,
 }
 
 student_grades = {}
@@ -17,5 +17,5 @@ for key in student_scores :
         student_grades[key] = "Acceptable"
     else :
         student_grades[key] = "Fail"
-  
+
 print(student_grades)

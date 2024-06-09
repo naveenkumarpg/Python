@@ -19,6 +19,3 @@ while not at_goal() :
     elif wall_in_front() == True :
         turn_left()
     
-   
-
-   
