@@ -11,5 +11,3 @@ except Exception:
     print('Some Exception')
 finally:
     print("The 'try except' is finished")
-else:
-    print('Program did not run')
