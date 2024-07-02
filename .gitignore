@@ -1,0 +1,8 @@
+__pycache__
+.venv
+.idea
+keys.py
+.next
+node_modules
+venv
+.chainlit
