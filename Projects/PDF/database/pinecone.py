@@ -1,10 +1,9 @@
 from pinecone import Pinecone, ServerlessSpec
+from keys import api_key
 
 def insert_data_pinecone(embeddings):
     # Initialize Pinecone
-    pc = Pinecone(
-        api_key="e4ad43a5-f15b-4fe5-a248-1bd318bb5f1f"
-    )
+    pc = Pinecone(api_key=api_key)
 
     # Check if initialization is successful
     print(pc.list_indexes().names())
