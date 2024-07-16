@@ -1,0 +1,642 @@
+[
+  {
+    "prompt": "What is the capital of England?",
+    "options": ["A. London", "B. Dublin", "C. Paris", "D. Delhi"],
+    "answer": "A"
+  },
+  {
+    "prompt": "Who wrote 'To Kill a Mockingbird'?",
+    "options": [
+      "A. Harper Lee",
+      "B. J.K. Rowling",
+      "C. Mark Twain",
+      "D. Ernest Hemingway"
+    ],
+    "answer": "A"
+  },
+  {
+    "prompt": "What is the largest planet in our solar system?",
+    "options": ["A. Earth", "B. Mars", "C. Jupiter", "D. Saturn"],
+    "answer": "C"
+  },
+  {
+    "prompt": "Which element has the chemical symbol 'O'?",
+    "options": ["A. Gold", "B. Oxygen", "C. Silver", "D. Hydrogen"],
+    "answer": "B"
+  },
+  {
+    "prompt": "What is the currency of Japan?",
+    "options": ["A. Yen", "B. Dollar", "C. Peso", "D. Euro"],
+    "answer": "A"
+  },
+  {
+    "prompt": "Which ocean is the largest?",
+    "options": ["A. Atlantic", "B. Indian", "C. Arctic", "D. Pacific"],
+    "answer": "D"
+  },
+  {
+    "prompt": "Who painted the Mona Lisa?",
+    "options": [
+      "A. Vincent van Gogh",
+      "B. Pablo Picasso",
+      "C. Leonardo da Vinci",
+      "D. Claude Monet"
+    ],
+    "answer": "C"
+  },
+  {
+    "prompt": "What is the smallest prime number?",
+    "options": ["A. 1", "B. 2", "C. 3", "D. 5"],
+    "answer": "B"
+  },
+  {
+    "prompt": "Who was the first President of the United States?",
+    "options": [
+      "A. Abraham Lincoln",
+      "B. George Washington",
+      "C. Thomas Jefferson",
+      "D. John Adams"
+    ],
+    "answer": "B"
+  },
+  {
+    "prompt": "What is the chemical formula for water?",
+    "options": ["A. H2O", "B. CO2", "C. NaCl", "D. O2"],
+    "answer": "A"
+  },
+  {
+    "prompt": "What is the main ingredient in guacamole?",
+    "options": ["A. Tomato", "B. Avocado", "C. Onion", "D. Pepper"],
+    "answer": "B"
+  },
+  {
+    "prompt": "Which country is known as the Land of the Rising Sun?",
+    "options": ["A. China", "B. Japan", "C. Korea", "D. India"],
+    "answer": "B"
+  },
+  {
+    "prompt": "Who developed the theory of relativity?",
+    "options": [
+      "A. Isaac Newton",
+      "B. Nikola Tesla",
+      "C. Albert Einstein",
+      "D. Galileo Galilei"
+    ],
+    "answer": "C"
+  },
+  {
+    "prompt": "Which planet is known as the Red Planet?",
+    "options": ["A. Venus", "B. Mars", "C. Mercury", "D. Jupiter"],
+    "answer": "B"
+  },
+  {
+    "prompt": "In what year did the Titanic sink?",
+    "options": ["A. 1905", "B. 1912", "C. 1920", "D. 1935"],
+    "answer": "B"
+  },
+  {
+    "prompt": "Who is the author of the Harry Potter series?",
+    "options": [
+      "A. J.R.R. Tolkien",
+      "B. J.K. Rowling",
+      "C. Stephen King",
+      "D. George R.R. Martin"
+    ],
+    "answer": "B"
+  },
+  {
+    "prompt": "Which country is the Eiffel Tower located in?",
+    "options": ["A. Italy", "B. Spain", "C. France", "D. Germany"],
+    "answer": "C"
+  },
+  {
+    "prompt": "What is the powerhouse of the cell?",
+    "options": [
+      "A. Nucleus",
+      "B. Ribosome",
+      "C. Mitochondria",
+      "D. Chloroplast"
+    ],
+    "answer": "C"
+  },
+  {
+    "prompt": "Who was known as the Iron Lady?",
+    "options": [
+      "A. Angela Merkel",
+      "B. Margaret Thatcher",
+      "C. Indira Gandhi",
+      "D. Golda Meir"
+    ],
+    "answer": "B"
+  },
+  {
+    "prompt": "What is the largest mammal in the world?",
+    "options": ["A. Elephant", "B. Whale Shark", "C. Blue Whale", "D. Giraffe"],
+    "answer": "C"
+  },
+  {
+    "prompt": "What is the freezing point of water?",
+    "options": [
+      "A. 0 degrees Celsius",
+      "B. 32 degrees Celsius",
+      "C. 100 degrees Celsius",
+      "D. -32 degrees Celsius"
+    ],
+    "answer": "A"
+  },
+  {
+    "prompt": "Which country gifted the Statue of Liberty to the USA?",
+    "options": ["A. Germany", "B. Canada", "C. France", "D. Mexico"],
+    "answer": "C"
+  },
+  {
+    "prompt": "Who is the Greek god of the sea?",
+    "options": ["A. Zeus", "B. Hades", "C. Poseidon", "D. Apollo"],
+    "answer": "C"
+  },
+  {
+    "prompt": "What is the hardest natural substance on Earth?",
+    "options": ["A. Gold", "B. Iron", "C. Diamond", "D. Quartz"],
+    "answer": "C"
+  },
+  {
+    "prompt": "Who discovered penicillin?",
+    "options": [
+      "A. Marie Curie",
+      "B. Louis Pasteur",
+      "C. Alexander Fleming",
+      "D. Gregor Mendel"
+    ],
+    "answer": "C"
+  },
+  {
+    "prompt": "What is the capital of Australia?",
+    "options": ["A. Sydney", "B. Melbourne", "C. Canberra", "D. Brisbane"],
+    "answer": "C"
+  },
+  {
+    "prompt": "Which language is the most spoken worldwide?",
+    "options": ["A. English", "B. Spanish", "C. Mandarin Chinese", "D. Hindi"],
+    "answer": "C"
+  },
+  {
+    "prompt": "What is the symbol for potassium on the periodic table?",
+    "options": ["A. K", "B. P", "C. Pt", "D. Po"],
+    "answer": "A"
+  },
+  {
+    "prompt": "Who wrote 'Pride and Prejudice'?",
+    "options": [
+      "A. Emily Brontë",
+      "B. Jane Austen",
+      "C. Charles Dickens",
+      "D. George Eliot"
+    ],
+    "answer": "B"
+  },
+  {
+    "prompt": "What is the smallest country in the world?",
+    "options": [
+      "A. Monaco",
+      "B. San Marino",
+      "C. Vatican City",
+      "D. Liechtenstein"
+    ],
+    "answer": "C"
+  },
+  {
+    "prompt": "Which planet is closest to the sun?",
+    "options": ["A. Venus", "B. Mars", "C. Mercury", "D. Earth"],
+    "answer": "C"
+  },
+  {
+    "prompt": "What is the square root of 64?",
+    "options": ["A. 6", "B. 7", "C. 8", "D. 9"],
+    "answer": "C"
+  },
+  {
+    "prompt": "Who painted 'Starry Night'?",
+    "options": [
+      "A. Pablo Picasso",
+      "B. Leonardo da Vinci",
+      "C. Vincent van Gogh",
+      "D. Claude Monet"
+    ],
+    "answer": "C"
+  },
+  {
+    "prompt": "What is the main gas found in the air we breathe?",
+    "options": ["A. Oxygen", "B. Nitrogen", "C. Carbon Dioxide", "D. Hydrogen"],
+    "answer": "B"
+  },
+  {
+    "prompt": "What is the capital of Canada?",
+    "options": ["A. Toronto", "B. Vancouver", "C. Ottawa", "D. Montreal"],
+    "answer": "C"
+  },
+  {
+    "prompt": "Which continent is the Sahara Desert located in?",
+    "options": ["A. Asia", "B. South America", "C. Africa", "D. Australia"],
+    "answer": "C"
+  },
+  {
+    "prompt": "Who is known as the father of modern physics?",
+    "options": [
+      "A. Isaac Newton",
+      "B. Galileo Galilei",
+      "C. Albert Einstein",
+      "D. Niels Bohr"
+    ],
+    "answer": "C"
+  },
+  {
+    "prompt": "What is the boiling point of water?",
+    "options": [
+      "A. 0 degrees Celsius",
+      "B. 32 degrees Celsius",
+      "C. 100 degrees Celsius",
+      "D. 212 degrees Celsius"
+    ],
+    "answer": "C"
+  },
+  {
+    "prompt": "What is the main ingredient in a traditional Japanese miso soup?",
+    "options": ["A. Tofu", "B. Seaweed", "C. Miso paste", "D. Rice"],
+    "answer": "C"
+  },
+  {
+    "prompt": "Which country is the Great Wall of China located in?",
+    "options": ["A. Japan", "B. China", "C. Korea", "D. India"],
+    "answer": "B"
+  },
+  {
+    "prompt": "What is the name of the longest river in the world?",
+    "options": ["A. Nile", "B. Amazon", "C. Yangtze", "D. Mississippi"],
+    "answer": "B"
+  },
+  {
+    "prompt": "Who was the first man to walk on the moon?",
+    "options": [
+      "A. Yuri Gagarin",
+      "B. Buzz Aldrin",
+      "C. Neil Armstrong",
+      "D. Michael Collins"
+    ],
+    "answer": "C"
+  },
+  {
+    "prompt": "What is the main component of the sun?",
+    "options": ["A. Hydrogen", "B. Helium", "C. Carbon", "D. Oxygen"],
+    "answer": "A"
+  },
+  {
+    "prompt": "Which planet is known for its rings?",
+    "options": ["A. Jupiter", "B. Uranus", "C. Neptune", "D. Saturn"],
+    "answer": "D"
+  },
+  {
+    "prompt": "Who invented the telephone?",
+    "options": [
+      "A. Alexander Graham Bell",
+      "B. Thomas Edison",
+      "C. Nikola Tesla",
+      "D. Guglielmo Marconi"
+    ],
+    "answer": "A"
+  },
+  {
+    "prompt": "What is the capital of Italy?",
+    "options": ["A. Milan", "B. Venice", "C. Rome", "D. Florence"],
+    "answer": "C"
+  },
+  {
+    "prompt": "Who wrote the play 'Romeo and Juliet'?",
+    "options": [
+      "A. Christopher Marlowe",
+      "B. William Shakespeare",
+      "C. Ben Jonson",
+      "D. John Webster"
+    ],
+    "answer": "B"
+  },
+  {
+    "prompt": "Which gas do plants absorb from the atmosphere?",
+    "options": ["A. Oxygen", "B. Nitrogen", "C. Carbon Dioxide", "D. Hydrogen"],
+    "answer": "C"
+  },
+  {
+    "prompt": "What is the tallest mountain in the world?",
+    "options": ["A. K2", "B. Kangchenjunga", "C. Lhotse", "D. Mount Everest"],
+    "answer": "D"
+  },
+  {
+    "prompt": "What is the main language spoken in Brazil?",
+    "options": ["A. Spanish", "B. Portuguese", "C. English", "D. French"],
+    "answer": "B"
+  },
+  {
+    "prompt": "Who discovered America?",
+    "options": [
+      "A. Marco Polo",
+      "B. Christopher Columbus",
+      "C. Ferdinand Magellan",
+      "D. Amerigo Vespucci"
+    ],
+    "answer": "B"
+  },
+  {
+    "prompt": "What is the symbol for gold on the periodic table?",
+    "options": ["A. Au", "B. Ag", "C. Gd", "D. Go"],
+    "answer": "A"
+  },
+  {
+    "prompt": "What is the capital of Germany?",
+    "options": ["A. Munich", "B. Frankfurt", "C. Berlin", "D. Hamburg"],
+    "answer": "C"
+  },
+  {
+    "prompt": "Who is the author of 'The Great Gatsby'?",
+    "options": [
+      "A. Ernest Hemingway",
+      "B. F. Scott Fitzgerald",
+      "C. William Faulkner",
+      "D. John Steinbeck"
+    ],
+    "answer": "B"
+  },
+  {
+    "prompt": "Which country is known for inventing the piano?",
+    "options": ["A. France", "B. Italy", "C. Germany", "D. Spain"],
+    "answer": "B"
+  },
+  {
+    "prompt": "What is the smallest bone in the human body?",
+    "options": ["A. Femur", "B. Stapes", "C. Ulna", "D. Tibia"],
+    "answer": "B"
+  },
+  {
+    "prompt": "Which planet is known as Earth's twin?",
+    "options": ["A. Mars", "B. Venus", "C. Mercury", "D. Neptune"],
+    "answer": "B"
+  },
+  {
+    "prompt": "Who is the author of 'The Catcher in the Rye'?",
+    "options": [
+      "A. J.D. Salinger",
+      "B. Ernest Hemingway",
+      "C. William Faulkner",
+      "D. John Steinbeck"
+    ],
+    "answer": "A"
+  },
+  {
+    "prompt": "What is the largest continent?",
+    "options": ["A. Africa", "B. Asia", "C. Europe", "D. North America"],
+    "answer": "B"
+  },
+  {
+    "prompt": "Who painted the ceiling of the Sistine Chapel?",
+    "options": [
+      "A. Leonardo da Vinci",
+      "B. Raphael",
+      "C. Michelangelo",
+      "D. Donatello"
+    ],
+    "answer": "C"
+  },
+  {
+    "prompt": "What is the main ingredient in traditional Italian pesto sauce?",
+    "options": ["A. Basil", "B. Tomato", "C. Garlic", "D. Parmesan"],
+    "answer": "A"
+  },
+  {
+    "prompt": "Which country is known as the Land of Fire and Ice?",
+    "options": ["A. Iceland", "B. New Zealand", "C. Greenland", "D. Norway"],
+    "answer": "A"
+  },
+  {
+    "prompt": "What is the atomic number of carbon?",
+    "options": ["A. 6", "B. 8", "C. 12", "D. 14"],
+    "answer": "A"
+  },
+  {
+    "prompt": "Who developed the theory of evolution?",
+    "options": [
+      "A. Charles Darwin",
+      "B. Gregor Mendel",
+      "C. Alfred Russel Wallace",
+      "D. Jean-Baptiste Lamarck"
+    ],
+    "answer": "A"
+  },
+  {
+    "prompt": "Which gas is commonly known as laughing gas?",
+    "options": [
+      "A. Nitrogen",
+      "B. Carbon Dioxide",
+      "C. Nitrous Oxide",
+      "D. Helium"
+    ],
+    "answer": "C"
+  },
+  {
+    "prompt": "Who is the author of 'Moby-Dick'?",
+    "options": [
+      "A. Nathaniel Hawthorne",
+      "B. Herman Melville",
+      "C. Mark Twain",
+      "D. Walt Whitman"
+    ],
+    "answer": "B"
+  },
+  {
+    "prompt": "What is the primary ingredient in hummus?",
+    "options": ["A. Lentils", "B. Chickpeas", "C. Black Beans", "D. Soybeans"],
+    "answer": "B"
+  },
+  {
+    "prompt": "Which planet has the most moons?",
+    "options": ["A. Earth", "B. Mars", "C. Jupiter", "D. Saturn"],
+    "answer": "C"
+  },
+  {
+    "prompt": "What is the chemical symbol for sodium?",
+    "options": ["A. Na", "B. So", "C. Sa", "D. No"],
+    "answer": "A"
+  },
+  {
+    "prompt": "Who wrote 'The Odyssey'?",
+    "options": ["A. Homer", "B. Virgil", "C. Sophocles", "D. Euripides"],
+    "answer": "A"
+  },
+  {
+    "prompt": "What is the largest organ in the human body?",
+    "options": ["A. Heart", "B. Liver", "C. Skin", "D. Brain"],
+    "answer": "C"
+  },
+  {
+    "prompt": "Who invented the light bulb?",
+    "options": [
+      "A. Nikola Tesla",
+      "B. Thomas Edison",
+      "C. Alexander Graham Bell",
+      "D. James Watt"
+    ],
+    "answer": "B"
+  },
+  {
+    "prompt": "What is the most abundant gas in Earth's atmosphere?",
+    "options": ["A. Oxygen", "B. Nitrogen", "C. Carbon Dioxide", "D. Argon"],
+    "answer": "B"
+  },
+  {
+    "prompt": "Which country has the most population?",
+    "options": ["A. India", "B. USA", "C. Indonesia", "D. China"],
+    "answer": "D"
+  },
+  {
+    "prompt": "What is the capital of Egypt?",
+    "options": ["A. Cairo", "B. Alexandria", "C. Giza", "D. Luxor"],
+    "answer": "A"
+  },
+  {
+    "prompt": "Who is the author of 'War and Peace'?",
+    "options": [
+      "A. Fyodor Dostoevsky",
+      "B. Leo Tolstoy",
+      "C. Anton Chekhov",
+      "D. Ivan Turgenev"
+    ],
+    "answer": "B"
+  },
+  {
+    "prompt": "What is the most widely spoken language in South America?",
+    "options": ["A. Spanish", "B. Portuguese", "C. English", "D. French"],
+    "answer": "A"
+  },
+  {
+    "prompt": "What is the smallest unit of life?",
+    "options": ["A. Atom", "B. Molecule", "C. Cell", "D. Tissue"],
+    "answer": "C"
+  },
+  {
+    "prompt": "What is the most popular sport in the world?",
+    "options": [
+      "A. Basketball",
+      "B. Cricket",
+      "C. Football (Soccer)",
+      "D. Tennis"
+    ],
+    "answer": "C"
+  },
+  {
+    "prompt": "Who wrote the 'Iliad'?",
+    "options": ["A. Homer", "B. Virgil", "C. Sophocles", "D. Euripides"],
+    "answer": "A"
+  },
+  {
+    "prompt": "What is the capital of Russia?",
+    "options": [
+      "A. St. Petersburg",
+      "B. Moscow",
+      "C. Novosibirsk",
+      "D. Yekaterinburg"
+    ],
+    "answer": "B"
+  },
+  {
+    "prompt": "Who was the first woman to win a Nobel Prize?",
+    "options": [
+      "A. Marie Curie",
+      "B. Rosalind Franklin",
+      "C. Dorothy Hodgkin",
+      "D. Ada Lovelace"
+    ],
+    "answer": "A"
+  },
+  {
+    "prompt": "What is the main ingredient in traditional French Ratatouille?",
+    "options": ["A. Eggplant", "B. Tomato", "C. Zucchini", "D. Bell Pepper"],
+    "answer": "A"
+  },
+  {
+    "prompt": "What is the largest island in the world?",
+    "options": ["A. Greenland", "B. New Guinea", "C. Borneo", "D. Madagascar"],
+    "answer": "A"
+  },
+  {
+    "prompt": "Who wrote 'The Divine Comedy'?",
+    "options": [
+      "A. Dante Alighieri",
+      "B. Geoffrey Chaucer",
+      "C. John Milton",
+      "D. William Blake"
+    ],
+    "answer": "A"
+  },
+  {
+    "prompt": "What is the capital of Spain?",
+    "options": ["A. Barcelona", "B. Madrid", "C. Seville", "D. Valencia"],
+    "answer": "B"
+  },
+  {
+    "prompt": "Who is the Greek god of war?",
+    "options": ["A. Zeus", "B. Hades", "C. Ares", "D. Apollo"],
+    "answer": "C"
+  },
+  {
+    "prompt": "What is the primary gas found on Mars?",
+    "options": ["A. Oxygen", "B. Nitrogen", "C. Carbon Dioxide", "D. Argon"],
+    "answer": "C"
+  },
+  {
+    "prompt": "Who is the author of '1984'?",
+    "options": [
+      "A. Aldous Huxley",
+      "B. George Orwell",
+      "C. Ray Bradbury",
+      "D. J.R.R. Tolkien"
+    ],
+    "answer": "B"
+  },
+  {
+    "prompt": "Which country is known as the Land of the Midnight Sun?",
+    "options": ["A. Sweden", "B. Norway", "C. Finland", "D. Denmark"],
+    "answer": "B"
+  },
+  {
+    "prompt": "What is the primary component of natural gas?",
+    "options": ["A. Ethane", "B. Propane", "C. Methane", "D. Butane"],
+    "answer": "C"
+  },
+  {
+    "prompt": "Who is the main character in the 'Harry Potter' series?",
+    "options": [
+      "A. Harry Potter",
+      "B. Ron Weasley",
+      "C. Hermione Granger",
+      "D. Albus Dumbledore"
+    ],
+    "answer": "A"
+  },
+  {
+    "prompt": "Which country has the most volcanoes?",
+    "options": ["A. Japan", "B. Indonesia", "C. USA", "D. Italy"],
+    "answer": "B"
+  },
+  {
+    "prompt": "Who is the author of 'Jane Eyre'?",
+    "options": [
+      "A. Emily Brontë",
+      "B. Charlotte Brontë",
+      "C. Anne Brontë",
+      "D. Jane Austen"
+    ],
+    "answer": "B"
+  },
+  {
+    "prompt": "What is the capital of Argentina?",
+    "options": ["A. Buenos Aires", "B. Córdoba", "C. Rosario", "D. Mendoza"],
+    "answer": "A"
+  }
+]

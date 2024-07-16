@@ -6,4 +6,4 @@ name = 'Naveen';
 age = 20;
 isMale = True
 
-print('My name is' + name + 'My age is '+ age + 'and i am ' + isMale); #TypeError: can only concatenate str (not "int") to str
+print('My name is' + name + 'My age is ' + str(age) + 'and i am ' + isMale); #TypeError: can only concatenate str (not "int") to str

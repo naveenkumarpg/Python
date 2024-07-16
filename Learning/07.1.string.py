@@ -6,44 +6,20 @@ print(to_string)
 
 
 #Get the characters from index 2 to index 4 (llo).
-txt = "Hello World"
-x = tet[2:5] # llo
+txt = "Hello World !"
+x = txt[2:5] # llo
 
 b = "Hello, World!"
 print(b[:5]) #Hello
-
-
-b = "Hello, World!"
 print(b[2:]) #llo, World!
-
-b = "Hello, World!"
 print(b[-5:-2]) #orl
+print(b.upper()) #HELLO, WORLD!
+print(b.lower()) #hello, world!
+print(b.strip()) # "Hello, World!"
+print(b.replace("H", "J")) #Jello, World!
+print(b.split(",")) #['Hello', ' World!']
 
 
-a = "Hello, World!"
-print(a.upper()) #HELLO, WORLD!
-
-
-a = "Hello, World!"
-print(a.lower()) #hello, world!
-
-a = " Hello, World! "
-print(a.strip()) # "Hello, World!"
-
-a = "Hello, World!"
-print(a.replace("H", "J")) #Jello, World!
-
-#replaces all "H" in the string
-a = "Hello, Harold!"
-print(a.replace("H", "J")) #Jello, Jarold!
-
-a = "Hello, World!"
-print(a.split(",")) #['Hello', ' World!']
-
-# Display the price with 2 decimals:
-price = 59
-txt = f"The price is {price:.2f} dollars"
-print(txt) # The price is 59.00 dollars
 
 # Display the price with 2 decimals with rounded number
 # :2f will automatically rounds the number to 53.14
